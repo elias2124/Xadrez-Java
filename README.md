@@ -10,7 +10,7 @@
 
 ## Executando a aplicação
 
-Execute o seguinte comando no git bash:
+Execute o seguinte comando no git bash dentro da pasta eclipse workspace em bin:
 
 ```bash
 	./javaapplication/Program
